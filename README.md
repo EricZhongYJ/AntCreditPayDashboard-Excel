@@ -20,8 +20,8 @@ This project leverages Excel's Power Query and Pivot Table features to build an 
 
 | Filename                | Description                                                  |
 | ----------------------- | ------------------------------------------------------------ |
+| `MonitoringDashboard_cn.jpg`  | A snapshot of the dashboard for preview purposes             |
 | `月度销售数据监控.xlsx` | The main Excel report with cleaned data, pivot tables, and visualization |
-| `月度销售数据监控.jpg`  | A snapshot of the dashboard for preview purposes             |
 
 
 
