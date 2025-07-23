@@ -22,6 +22,10 @@ This project leverages Excel's Power Query and Pivot Table features to build an 
 | ----------------------- | ------------------------------------------------------------ |
 | `MonitoringDashboard_cn.jpg`  | A snapshot of the dashboard for preview purposes             |
 | `月度销售数据监控.xlsx` | The main Excel report with cleaned data, pivot tables, and visualization |
+| `6月_每日销售成交汇总数据.xlsx`| The source data of loan sales in June |
+| `7月_每日销售成交汇总数据.xlsx`| The source data of loan sales in July |
+| `销售人员表-截止8月1日.xlsx`| The related table about the employees |
+|`历史数据.xlsx`| The cleaned data by using Power Query |
 
 
 
