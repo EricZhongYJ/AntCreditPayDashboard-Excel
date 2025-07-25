@@ -36,7 +36,7 @@
 1. 克隆本项目：
 
     ``` bash
-    git clone https://github.com/你的用户名/月度销售监控报表.git
+    git clone https://github.com/EricZhongYJ/DataAnalysisLoanSalesExcel.git
     ```
 
 2. 使用 Excel 打开 `月度销售数据监控.xlsx`
