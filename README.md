@@ -41,7 +41,7 @@ This project leverages Excel's Power Query and Pivot Table features to build an 
 1. Clone this repo:
 
     ``` bash
-    git clone https://github.com/your-username/monthly-sales-monitoring-dashboard.git
+    git clone [https://github.com/your-username/monthly-sales-monitoring-dashboard.git](https://github.com/EricZhongYJ/DataAnalysisLoanSalesExcel.git)
     ```
 
 2. Open `月度销售数据监控.xlsx` in Excel
