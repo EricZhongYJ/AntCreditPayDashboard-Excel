@@ -1,4 +1,6 @@
-## 📊 Monthly Huabei Loan Sales Monitoring Dashboard
+## 📊 Monthly Huabei Loan Sales Monitoring Dashboard - Excel
+
+See another version: [Tableau Dashboard](https://github.com/EricZhongYJ/AntCreditPayDashboard-Tableau)
 
 ### Project Overview
 
